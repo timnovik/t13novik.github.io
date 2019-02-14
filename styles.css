@@ -1,0 +1,28 @@
+.public {
+    font-family: 'Didact Gothic', sans-serif;
+    color: #fff;
+    font-size: 50px;
+}
+.photo1{
+    width:604px;
+    height:453px;
+    color: #fff;
+    background:#fff;
+    border: 3px #fff solid;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.photo2{
+    width:1280px;
+    height:817px;
+    color: #fff;
+    background:#fff;
+    border: 3px #fff solid;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.normal {
+    font-family: 'Didact Gothic', sans-serif;
+    color: #fff;
+    font-size: 20px;
+}

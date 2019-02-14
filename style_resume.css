@@ -1,0 +1,42 @@
+h1 {
+    font-family: "Trebuchet MS";
+}
+h2 {
+    font-family: "Trebuchet MS";
+}
+
+.contacts {
+    background-color: black;
+    color: white;
+    margin-top: 1.3em;
+    margin-bottom: 1.3em;
+    margin-right: 30em;
+    margin-left: 30em;
+    padding: 0.5em;
+}
+p {
+    color: white;
+    background-color: black;
+}
+.about_me {
+    margin-right: 1000px;
+    padding: 0.3em;
+}
+.hobbys {
+    margin-right: 900px;
+    padding: 0.3em;
+}
+.stack {
+    margin-right: 900px;
+    padding: 0.3em;
+}
+a {
+    color: black;
+    background-color: white;
+}
+li {
+    color: white;
+    background-color: black;
+    margin-right: 900px;
+    padding: 0.3em;
+}
